@@ -1,0 +1,45 @@
+body {
+    margin: 20px;
+    /*
+    Some web safe fonts I liked.
+    */
+    font-family: Monospace, Fantasy, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avatar {
+    width: 50%;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #344e41;
+    color: #e9edc9;
+    border: 1px solid #023047;
+        
+    /*
+    Found a color palette I liked on Coolors.co
+     */
+}
+
+.border-blue {
+    border: 1px dotted #a3b18a;
+    border-radius:10%;
+
+}
+
+/*
+Stretch goals:
+Find other ways you can personalize 
+the design of your business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
